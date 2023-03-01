@@ -9,8 +9,8 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
-    background-color:burlywood;
+    color: white;
+    background-color: burlywood;
 }
 
 h1, h2 {
@@ -23,8 +23,9 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
-}
-
+    margin-left: 30px;
+}    
+    
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -42,37 +43,39 @@ h1, h2 {
 
 #menu a {
     text-decoration: none;
-    color: inherit;
+    color: grey;
 }
 
 #menu a:hover {
-    color: darkorange;
+    color: rgb(255, 255, 255);
 }
 
 .active {
-    color: darkorange;
+    color: chartreuse;
 }
 
 .container {
-    padding: 2rem;
+    padding: 8rem;
 }
 
 .slider-wrapper {
     position: relative;
-    top: 1cm;
-    left: 0.5cm;
-    max-width: 48rem;
+    top: 0cm;
+    left: 0cm;
+    max-width: 110rem;
     margin: 0 auto;
+    height: 600px;
+    width: 100%;
 }
 
 .slider {
     display: flex;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 16 / 10;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
-    box-shadow: 0 1.5rem 3rem -0.75rem hsla(0, 0%, 0%, 0.25);
     border-radius: 0.5rem;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
 }
 
 .slider img {
@@ -103,3 +106,60 @@ h1, h2 {
 .slider-nav a:hover {
     opacity: 1;
 }
+
+.first-about {
+    padding: 5px;
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 0.5rem;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+}
+
+
+.second-about {
+    padding: 5px;
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 0.5rem;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+}
+
+.third-about {
+    padding: 5px;
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 0.5rem;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+}
+
+.fourth-about {
+    padding: 5px;
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 0.5rem;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+}
+
+#club-ethos::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+#top {
+    text-align: center;
+    font-size: xxx-large;
+}
+
+#directions {
+    text-align: center;
+}
+
