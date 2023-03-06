@@ -156,7 +156,7 @@ h1, h2 {
 
 #top {
     text-align: center;
-    font-size: xxx-large;
+    font-size: 600%;
 }
 
 #directions {
@@ -251,44 +251,19 @@ h1, h2 {
     color: darkgrey;
 }
 
-.main-structure {
+.picture  img {
+    width:100%;
+    height: auto;
+    margin-top: 100px;
+}
+
+#cover-text {
+    color: #fff;
+    font-size: 250%;
+    font-family: oswald, sans-serif;
     text-transform: uppercase;
-}
-
-.main-structure > h1 {
-    margin-left: 30px;
-    margin-top: 200px;
-    display: table;
-    background: #fff;
-}
-
-.welcome {
-    padding: 5px;
-    width: 20%;
-    float: right;
-    margin-left: 30px;
-    border-radius: 0.5rem;
-    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
-}
-
-.what-we-do {
-    padding: 5px;
-    width: 20%;
-    margin: 0 auto;
-    margin-top:400px;
-    border-radius: 0.5rem;
-    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
-}
-
-.why-us {
-    padding: 5px;
-    width: 20%;
-    float: left;
-    margin-left: 30px;
-    border-radius: 0.5rem;
-    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
-}
-
-#main-structure {
-    background-color: aliceblue;
+    letter-spacing: 4px;
+    position: absolute;
+    top: 265%;
+    left: 40%;
 }
