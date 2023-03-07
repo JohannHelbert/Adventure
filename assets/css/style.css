@@ -161,6 +161,8 @@ h1, h2 {
 
 #directions {
     text-align: center;
+    font-size: 200%;
+    color: grey;
 }
 
 .first-about h2, h6 {
@@ -264,6 +266,6 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     position: absolute;
-    top: 265%;
+    top: 270%;
     left: 40%;
 }
