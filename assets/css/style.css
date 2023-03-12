@@ -183,28 +183,28 @@ h1, h2 {
 }
 
 .first-about > img {
-    width: 100%;
+   width: 100%;
    object-fit: cover;
    height: 200px;
    margin-bottom: 20px;
 }
 
 .second-about > img {
-    width: 100%;
+   width: 100%;
    object-fit: cover;
    height: 200px;
    margin-bottom: 20px;
 }
 
 .third-about > img {
-    width: 100%;
+   width: 100%;
    object-fit: cover;
    height: 200px;
    margin-bottom: 20px;
 }
 
 .fourth-about > img {
-    width: 100%;
+   width: 100%;
    object-fit: cover;
    height: 200px;
    margin-bottom: 20px;
@@ -260,14 +260,14 @@ h1, h2 {
     margin-top: 100px;
 }
 
-#cover-text {
+#cover-text2 {
     color: #fff;
     font-size: 250%;
     font-family: oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     position: absolute;
-    top: 270%;
+    top: 170%;
     left: 40%;
 }
 
@@ -288,4 +288,25 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+#service {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#service div {
+    width: 30%;
+    height: 300px;
+    float: left;
+    padding: 100px 0 0 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#service h2 {
+    padding-top: 20px;
 }
