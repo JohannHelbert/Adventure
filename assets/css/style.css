@@ -112,7 +112,7 @@ h1, h2 {
     padding: 5px;
     width: 20%;
     float: left;
-    margin-left: 30px;
+    margin-left: 60px;
     margin-top: 30px;
     border-radius: 0.5rem;
     box-shadow: rgb(0, 0, 0) 0px 5px 15px;
@@ -433,16 +433,30 @@ textarea::-webkit-scrollbar-thumb {
         margin: 0;
     }
 
-    #first-about, #second-about {
+    .first-about, .second-about {
+        width: 100%;
+        float: left;
+        padding: 0;
+        margin-left: 0;
+    }
+
+    .third-about, .fourth-about {
+        width: 100%;
+        float: left;
+        padding: 0;
+        margin-left: 0;
+    }
+
+    .container {
         width: 100%;
         float: left;
         padding: 0;
     }
 
-    #third-about, #fourth-about {
-        clear: both;
-        width: 100%;
-        float: left;
+    #cover-text {
+        margin-left: -80px;
+        margin-right: auto;
+        margin-top: 40px;
         padding: 0;
     }
 }
@@ -454,5 +468,46 @@ textarea::-webkit-scrollbar-thumb {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
+
+    #top, #directions {
+        left: 0;
+    }
+
+    #club-ethos {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .first-about, .second-about {
+        width: inherit;
+        padding: 0 20px;
+    }
+
+    .first-about h2, h6, .second-about h2, h6 {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .third-about, .fourth-about {
+        width: inherit;
+        padding: 0 20px;
+    }
+
+    .third-about h2, h6, .fourth-about h2, h6 {
+        width: 100%;
+        text-align: center;
+    }
+
+    #cover-text {
+        top: 63em;
+        margin-left: -80px;
+        margin-right: auto;
+        margin-top: 40px;
+    }
+
+    .social-networks {
+        margin-top: 5em;
     }
 }
