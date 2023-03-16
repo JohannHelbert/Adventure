@@ -454,6 +454,7 @@ textarea::-webkit-scrollbar-thumb {
     }
 
     #cover-text {
+        width: 100%;
         margin-left: -80px;
         margin-right: auto;
         margin-top: 40px;
@@ -481,7 +482,7 @@ textarea::-webkit-scrollbar-thumb {
     }
 
     .first-about, .second-about {
-        width: inherit;
+        width: 90%;
         padding: 0 20px;
     }
 
@@ -491,7 +492,7 @@ textarea::-webkit-scrollbar-thumb {
     }
     
     .third-about, .fourth-about {
-        width: inherit;
+        width: 90%;
         padding: 0 20px;
     }
 
@@ -501,6 +502,7 @@ textarea::-webkit-scrollbar-thumb {
     }
 
     #cover-text {
+        width: 90%;
         top: 63em;
         margin-left: -80px;
         margin-right: auto;
@@ -509,5 +511,31 @@ textarea::-webkit-scrollbar-thumb {
 
     .social-networks {
         margin-top: 5em;
+    }
+
+    #service {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 90%;
+        overflow: hidden;
+    }
+
+    #service > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    #cover-text2 {
+        color: #fff;
+        font-size: 250%;
+        font-family: oswald, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        position: absolute;
+        top: 309%;
+        left: 14%;
     }
 }
