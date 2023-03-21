@@ -328,7 +328,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("./assets/images/happy-people-on-the-beach-at-sunset.jpeg") no-repeat center center/cover;
+    background: url("/assets/images/happy-people-on-the-beach-at-sunset.jpeg") no-repeat center center/cover;
     width: 100%;
 }
 
@@ -344,7 +344,7 @@ footer {
     flex-wrap: wrap;
 }
 
-.container3 form h1 {
+.container3 form h2 {
     color: #fff;
     font-weight: 500;
     margin-top: 10px;
@@ -540,18 +540,7 @@ textarea::-webkit-scrollbar-thumb {
         width: 100%;
     }
 
-    .container3 {
-        min-height: 100vh;
-        background: rgba(0, 0, 0, .6);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background: url("./assets/images/happy-people-on-the-beach-at-sunset.jpeg") no-repeat center center/cover;
-        width: 100%;
-    }
-    
     .container3 form {
-        width: 300px;
         height: 400px;
         display: flex;
         justify-content: center;
@@ -562,8 +551,19 @@ textarea::-webkit-scrollbar-thumb {
         flex-wrap: wrap;
     }
     
-    .container3 form h1 {
-        color: #fff;
+    .container3 form h2 {
+        color: #fff
+        min-height: 100vh;
+        background: rgba(0, 0, 0, .6);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: url("/assets/images/happy-people-on-the-beach-at-sunset.jpeg") no-repeat center center/cover;
+        width: 100%;
+    }
+    
+    .container3 form {
+        width: 300px;
         font-weight: 500;
         margin-top: 10px;
         width: 500px;
@@ -650,7 +650,7 @@ textarea::-webkit-scrollbar-thumb {
         text-align: center;
         width: inherit;
     }
-}
+
 
 @media screen and (max-width: 400px) {
     #cover-text2 {
