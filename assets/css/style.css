@@ -260,17 +260,6 @@ h1, h2 {
     margin-top: 100px;
 }
 
-#cover-text {
-    color: #fff;
-    font-size: 250%;
-    font-family: oswald, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    position: absolute;
-    top: 275%;
-    left: 40%;
-}
-
 footer {
     height: 150px;
 }
@@ -309,17 +298,6 @@ footer {
 
 #service h2 {
     padding-top: 20px;
-}
-
-#cover-text2 {
-    color: #fff;
-    font-size: 250%;
-    font-family: oswald, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    position: absolute;
-    top: 170%;
-    left: 40%;
 }
 
 .container3 {
@@ -452,26 +430,6 @@ textarea::-webkit-scrollbar-thumb {
         float: left;
         padding: 0;
     }
-
-    #cover-text {
-        width: 100%;
-        margin-left: -80px;
-        margin-right: auto;
-        top: 390%;
-        padding: 0;
-    }
-
-    #cover-text2 {
-        color: #fff;
-        font-size: 250%;
-        font-family: oswald, sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 4px;
-        position: absolute;
-        top: 150%;
-        text-align: center;
-        width: inherit;
-    }
 }
 
 @media screen and (max-width: 950px) {
@@ -511,14 +469,6 @@ textarea::-webkit-scrollbar-thumb {
     .third-about h2, h6, .fourth-about h2, h6 {
         width: 100%;
         text-align: center;
-    }
-
-    #cover-text {
-        width: 90%;
-        top: 63em;
-        margin-left: -80px;
-        margin-right: auto;
-        margin-top: 190px;
     }
 
     .social-networks {
@@ -637,39 +587,5 @@ textarea::-webkit-scrollbar-thumb {
     
     .container3 form #button:hover {
         opacity: 0.7;
-    }
-
-    #cover-text2 {
-        color: #fff;
-        font-size: 250%;
-        font-family: oswald, sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 4px;
-        position: absolute;
-        top: 308%;
-        text-align: center;
-        width: inherit;
-        margin-left: -100px;
-    }
-
-
-@media screen and (max-width: 400px) {
-    #cover-text2 {
-        color: #fff;
-        font-size: 250%;
-        font-family: oswald, sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 4px;
-        position: absolute;
-        top: 315%;
-        left: 35%;
-    }
-
-    #cover-text {
-        width: 100%;
-        margin-left: -100px;
-        margin-right: auto;
-        margin-top: 40px;
-        padding: 0;
     }
 }
