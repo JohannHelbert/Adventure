@@ -558,6 +558,7 @@ textarea::-webkit-scrollbar-thumb {
         display: flex;
         justify-content: center;
         align-items: center;
+        background: url("../images/happy-people-on-the-beach-at-sunset.jpeg");
         width: 100%;
     }
     
