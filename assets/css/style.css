@@ -590,7 +590,7 @@ textarea::-webkit-scrollbar-thumb {
     }
 }
 
-@media screen and (max-width: 367px) {
+@media screen and (max-width: 340px) {
     #menu {
         clear: left;
         float: left;
