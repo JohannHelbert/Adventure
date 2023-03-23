@@ -518,7 +518,7 @@ textarea::-webkit-scrollbar-thumb {
         top: 63em;
         margin-left: -80px;
         margin-right: auto;
-        margin-top: 130px;
+        margin-top: 190px;
     }
 
     .social-networks {
@@ -646,9 +646,10 @@ textarea::-webkit-scrollbar-thumb {
         text-transform: uppercase;
         letter-spacing: 4px;
         position: absolute;
-        top: 327%;
+        top: 308%;
         text-align: center;
         width: inherit;
+        margin-left: -100px;
     }
 
 
@@ -660,8 +661,8 @@ textarea::-webkit-scrollbar-thumb {
         text-transform: uppercase;
         letter-spacing: 4px;
         position: absolute;
-        top: 305%;
-        left: 14%;
+        top: 315%;
+        left: 35%;
     }
 
     #cover-text {
