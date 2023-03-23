@@ -589,3 +589,13 @@ textarea::-webkit-scrollbar-thumb {
         opacity: 0.7;
     }
 }
+
+@media screen and (max-width: 367px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
