@@ -551,7 +551,7 @@ textarea::-webkit-scrollbar-thumb {
         flex-wrap: wrap;
     }
     
-    .container3 form h2 {
+    .container3 {
         color: #fff
         min-height: 100vh;
         background: rgba(0, 0, 0, .6);
