@@ -328,7 +328,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("/assets/images/happy-people-on-the-beach-at-sunset.jpeg") no-repeat center center/cover;
+    background: url("happy-people-on-the-beach-at-sunset.jpeg") no-repeat center center/cover;
     width: 100%;
 }
 
