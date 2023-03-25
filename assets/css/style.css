@@ -414,7 +414,7 @@ textarea::-webkit-scrollbar-thumb {
     #club-ethos {
         width: 65%;
         height: 1200px;
-        margin-left: 0 auto;
+        margin: 0 auto;
     }
 
     #top {
