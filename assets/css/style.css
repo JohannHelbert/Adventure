@@ -55,8 +55,9 @@ h1, h2 {
 }
 
 .container {
-    padding: 8rem;
+    padding: 18rem;
     border-bottom: 1px solid #25231f;
+    padding-top: 100px;
 }
 
 .slider-wrapper {
@@ -112,7 +113,7 @@ h1, h2 {
     padding: 5px;
     width: 20%;
     float: left;
-    margin-left: 60px;
+    margin-left: 125px;
     margin-top: 30px;
     border-radius: 0.5rem;
     box-shadow: rgb(0, 0, 0) 0px 5px 15px;
@@ -306,7 +307,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("../images/happy-people-on-the-beach-at-sunset.jpeg") no-repeat center center/cover;
+    background: url ("../images/happy-people-on-the-beach-at-sunset.jpeg") no-repeat center center/cover;
     width: 100%;
 }
 
@@ -342,7 +343,7 @@ footer {
     border-bottom: 2px solid #fff;
 }
 
-.container3 form inpu::placeholder {
+.container3 form input::placeholder {
     color: #ddd;
 }
 
@@ -429,6 +430,7 @@ textarea::-webkit-scrollbar-thumb {
         width: 100%;
         float: left;
         padding: 0;
+        margin-top: 50px;
     }
 }
 
@@ -489,8 +491,19 @@ textarea::-webkit-scrollbar-thumb {
         align-items: center;
         width: 100%;
     }
-
+    
+    .container3 {
+        min-height: 100vh;
+        background: rgba(0, 0, 0, .6);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: url ("../images/happy-people-on-the-beach-at-sunset.jpeg") no-repeat center center/cover;
+        width: 100%;
+    }
+    
     .container3 form {
+        width: 670px;
         height: 400px;
         display: flex;
         justify-content: center;
@@ -501,19 +514,8 @@ textarea::-webkit-scrollbar-thumb {
         flex-wrap: wrap;
     }
     
-    .container3 {
-        color: #fff
-        min-height: 100vh;
-        background: rgba(0, 0, 0, .6);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background: url("../images/happy-people-on-the-beach-at-sunset.jpeg");
-        width: 100%;
-    }
-    
-    .container3 form {
-        width: 300px;
+    .container3 form h2 {
+        color: #fff;
         font-weight: 500;
         margin-top: 10px;
         width: 500px;
@@ -532,12 +534,12 @@ textarea::-webkit-scrollbar-thumb {
         border-bottom: 2px solid #fff;
     }
     
-    .container3 form inpu::placeholder {
+    .container3 form input::placeholder {
         color: #ddd;
     }
     
     .container3 form #lastName, .container3 form #mobile {
-        margin-left: 0px;
+        margin-left: 20px;
     }
     
     .container3 form h4 {
@@ -556,7 +558,7 @@ textarea::-webkit-scrollbar-thumb {
         font-size: 15px;
         padding: 10px;
         outline: none;
-        min-width: 280px;
+        min-width: 600px;
         max-width: 600px;
         min-height: 80px;
         max-height: 80px;
@@ -578,9 +580,9 @@ textarea::-webkit-scrollbar-thumb {
         font-weight: 600;
         font-size: 20px;
         color: #333;
-        width: 100%;
+        width: 100px;
         padding: 0;
-        margin-right: 200px;
+        margin-right: 500px;
         margin-bottom: 30px;
         transition: 0.3s;
     }
