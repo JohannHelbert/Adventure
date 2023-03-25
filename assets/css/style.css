@@ -659,4 +659,13 @@ textarea::-webkit-scrollbar-thumb {
         height: 350px;
         width: 90%;
     }
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        width: -10px;
+    }
 }
