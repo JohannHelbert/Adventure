@@ -452,6 +452,7 @@ textarea::-webkit-scrollbar-thumb {
         transform: translateX(-50%);
         z-index: 1;
     }
+
 }
 
 @media screen and (max-width: 950px) {
@@ -638,7 +639,7 @@ textarea::-webkit-scrollbar-thumb {
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (min-width: 400px) {
     .slider-wrapper {
         position: relative;
         top: 0cm;
@@ -648,4 +649,17 @@ textarea::-webkit-scrollbar-thumb {
         height: 350px;
         width: 90%;
     }
+}
+
+@media  screen and (min-width:1200px) {
+    .slider-wrapper {
+        position: relative;
+        top: 0cm;
+        left: 0cm;
+        max-width: 110rem;
+        margin: 0 auto;
+        height: 500px;
+        width: 90%;
+    }
+
 }
