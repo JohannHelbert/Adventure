@@ -68,7 +68,7 @@ h1, h2 {
     left: 0cm;
     max-width: 110rem;
     margin: 0 auto;
-    height: 700px;
+    height: 500px;
     width: 90%;
 }
 
@@ -453,6 +453,16 @@ textarea::-webkit-scrollbar-thumb {
         transform: translateX(-50%);
         z-index: 1;
     }
+
+    .slider-wrapper {
+        position: relative;
+        top: 0cm;
+        left: 0cm;
+        max-width: 110rem;
+        margin: 0 auto;
+        height: 650px;
+        width: 90%;
+    }
 }
 
 @media screen and (max-width: 950px) {
@@ -486,7 +496,7 @@ textarea::-webkit-scrollbar-thumb {
         left: 0cm;
         max-width: 110rem;
         margin: 0 auto;
-        height: 350px;
+        height: 650px;
         width: 90%;
     }
 
@@ -639,27 +649,14 @@ textarea::-webkit-scrollbar-thumb {
     }
 }
 
-@media screen and (min-width: 400px) {
+@media screen and (max-width: 400px) {
     .slider-wrapper {
         position: relative;
         top: 0cm;
         left: 0cm;
         max-width: 110rem;
         margin: 0 auto;
-        height: 650px;
+        height: 350px;
         width: 90%;
     }
-}
-
-@media  screen and (min-width:1200px) {
-    .slider-wrapper {
-        position: relative;
-        top: 0cm;
-        left: 0cm;
-        max-width: 110rem;
-        margin: 0 auto;
-        height: 600px;
-        width: 90%;
-    }
-
 }
