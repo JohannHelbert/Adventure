@@ -57,7 +57,7 @@ h1, h2 {
 .container {
     padding: 0;
     padding-top: 100px;
-    margin-left: 10px;
+    margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 100px;
 }
@@ -414,7 +414,7 @@ textarea::-webkit-scrollbar-thumb {
     #club-ethos {
         width: 65%;
         height: 1200px;
-        margin: 0 auto;
+        margin-left: 0 auto;
     }
 
     #top {
@@ -442,6 +442,17 @@ textarea::-webkit-scrollbar-thumb {
         padding: 0;
         margin-top: 50px;
         margin-bottom: 50px;
+        margin-left: 0px;
+    }
+
+    .slider-nav {
+        display: flex;
+        column-gap: 1rem;
+        position: absolute;
+        bottom: 1rem;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 1;
     }
 }
 
@@ -452,6 +463,23 @@ textarea::-webkit-scrollbar-thumb {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
+
+    .container {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+        height: 300px;
+    }
+
+    .slider-nav {
+        display: flex;
+        column-gap: 1rem;
+        position: absolute;
+        bottom: 23rem;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 1;
     }
 
     #top, #directions {
