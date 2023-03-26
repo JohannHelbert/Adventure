@@ -228,7 +228,7 @@ h1, h2 {
     font: bold;
     margin-top: 5px;
     font-size: larger;
-    font-family: oswald sans-serif;
+    font-family: oswald, sans-serif;
 }
 
 .second-about > p {
@@ -238,7 +238,7 @@ h1, h2 {
     font: bold;
     margin-top: 5px;
     font-size: larger;
-    font-family: oswald sans-serif;
+    font-family: oswald, sans-serif;
 }
 
 .third-about > p {
@@ -248,7 +248,7 @@ h1, h2 {
     font: bold;
     margin-top: 5px;
     font-size: larger;
-    font-family: oswald sans-serif;
+    font-family: oswald, sans-serif;
 }
 
 .fourth-about > p {
@@ -258,11 +258,11 @@ h1, h2 {
     font: bold;
     margin-top: 5px;
     font-size: larger;
-    font-family: oswald sans-serif;
+    font-family: oswald, sans-serif;
 }
 
 .first-about > h6 {
-    color: darkgrey;
+    color: white;
 }
 
 .picture  img {
