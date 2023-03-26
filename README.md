@@ -95,3 +95,90 @@
 <br>
 
 <img src="assets/images/Bildschirmfoto 2023-03-26 um 15.18.01.png">
+
+<br>
+
+# Testing
+
+<br>
+
+## Validator Testing 
+
+<br>
+
+### HTML
+
+<br>
+
+- No errors were returned when passing through the official W3C validator
+
+<br>
+
+<img src="assets/images/Bildschirmfoto 2023-03-26 um 15.35.23.png">
+
+<br>
+
+### CSS
+
+<br>
+
+- No errors were found when passing through the official (Jigsaw) validator
+
+<br>
+
+<img src="assets/images/Bildschirmfoto 2023-03-26 um 15.37.26.png">
+
+<br>
+
+# Deployment
+
+<br>
+
+- ## The site was deployed to GitHub pages. The steps to deploy are as follows:
+<br>
+
+- In the GitHub repository, navigate to the Settings tab
+<br>
+
+- From the source section drop-down menu, select the Master Branch
+<br>
+
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+<br>
+
+The live link can be found here - https://johannhelbert.github.io/Adventure/index.html
+
+<br>
+
+# Credits
+
+<br>
+
+## Content
+<br>
+
+- The icons in the footer were taken from https://fontawesome.com/
+<br>
+
+- Instructions on how to implement form validation on the Contact page was taken from https://www.youtube.com/watch?v=WwdU_eDKeVQ
+<br>
+
+- The icons in the service page were taken from https://icon-icons.com/
+<ve>
+
+- how to implement service icons was taken from Love Running Project
+<br>
+
+- some codes for example @media query and other codes was taken from Love Running Project
+<br>
+
+- how to implement image slider was taken from https://www.youtube.com/watch?v=McPdzhLRzCg
+<br>
+
+## Media
+<br>
+
+- the photos using on the home page was taken from https://wallpapers.com , https://drivinvibin.com
+<br>
+
+the photos using on the contact page was taken from https://pixy.org
