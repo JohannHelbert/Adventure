@@ -181,4 +181,4 @@ The live link can be found here - https://johannhelbert.github.io/Adventure/inde
 - the photos using on the home page was taken from https://wallpapers.com , https://drivinvibin.com
 <br>
 
-the photos using on the contact page was taken from https://pixy.org
+- the photos using on the contact page was taken from https://pixy.org
