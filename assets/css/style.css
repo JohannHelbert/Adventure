@@ -20,20 +20,28 @@ h1, h2 {
     color:#fff;
 }
 
+/* This code was taken from Love Runing Project */
+
 #logo {
     float: left;
     font-size: 280%;
     margin-left: 30px;
 }    
     
+/* This code was taken from Love Runing Project */
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
 }
 
+/* This code was taken from Love Runing Project */
+
 #menu, #logo {
     line-height: 75px;
 }
+
+/* This code was taken from Love Runing Project */
 
 #menu li {
     float: right;
@@ -41,14 +49,20 @@ h1, h2 {
     margin-right: 30px;
 }
 
+/* This code was taken from Love Runing Project */
+
 #menu a {
     text-decoration: none;
     color: grey;
 }
 
+/* This code was taken from Love Runing Project */
+
 #menu a:hover {
     color: rgb(255, 255, 255);
 }
+
+/* This code was taken from Love Runing Project */
 
 .active {
     color: chartreuse;
@@ -125,12 +139,16 @@ h1, h2 {
     opacity: 1;
 }
 
+/* This code was taken from Love Runing Project */
+
 #club-ethos {
     width: 90%;
     height: 100px;
     margin: 0 auto;
     column-gap: 30px;
 }
+
+/* This code was taken from Love Runing Project */
 
 .first-about {
     padding: 5px;
@@ -142,7 +160,7 @@ h1, h2 {
     box-shadow: rgb(0, 0, 0) 0px 5px 15px;
 }
 
-
+/* This code was taken from Love Runing Project */
 .second-about {
     padding: 5px;
     width: 20%;
@@ -152,6 +170,8 @@ h1, h2 {
     border-radius: 0.5rem;
     box-shadow: rgb(0, 0, 0) 0px 5px 15px;
 }
+
+/* This code was taken from Love Runing Project */
 
 .third-about {
     padding: 5px;
@@ -163,6 +183,8 @@ h1, h2 {
     box-shadow: rgb(0, 0, 0) 0px 5px 15px;
 }
 
+/* This code was taken from Love Runing Project */
+
 .fourth-about {
     padding: 5px;
     width: 20%;
@@ -173,6 +195,8 @@ h1, h2 {
     border-radius: 0.5rem;
     box-shadow: rgb(0, 0, 0) 0px 5px 15px;
 }
+
+/* This code was taken from Love Runing Project */
 
 #club-ethos::after {
     content: "";
@@ -191,21 +215,31 @@ h1, h2 {
     color: grey;
 }
 
+/* This code was taken from Love Runing Project */
+
 .first-about h2, h6 {
     text-align: center;
 }
+
+/* This code was taken from Love Runing Project */
 
 .second-about h2, h6 {
     text-align: center;
 }
 
+/* This code was taken from Love Runing Project */
+
 .third-about h2, h6 {
     text-align: center;
 }
 
+/* This code was taken from Love Runing Project */
+
 .fourth-about h2, h6 {
     text-align: center;
 }
+
+/* This code was taken from Love Runing Project */
 
 .first-about > img {
    width: 100%;
@@ -214,12 +248,16 @@ h1, h2 {
    margin-bottom: 20px;
 }
 
+/* This code was taken from Love Runing Project */
+
 .second-about > img {
    width: 100%;
    object-fit: cover;
    height: 200px;
    margin-bottom: 20px;
 }
+
+/* This code was taken from Love Runing Project */
 
 .third-about > img {
    width: 100%;
@@ -228,12 +266,16 @@ h1, h2 {
    margin-bottom: 20px;
 }
 
+/* This code was taken from Love Runing Project */
+
 .fourth-about > img {
    width: 100%;
    object-fit: cover;
    height: 200px;
    margin-bottom: 20px;
 }
+
+/* This code was taken from Love Runing Project */
 
 .first-about > p {
     text-align: center;
@@ -245,6 +287,8 @@ h1, h2 {
     font-family: oswald, sans-serif;
 }
 
+/* This code was taken from Love Runing Project */
+
 .second-about > p {
     text-align: center;
     color: black;
@@ -255,6 +299,8 @@ h1, h2 {
     font-family: oswald, sans-serif;
 }
 
+/* This code was taken from Love Runing Project */
+
 .third-about > p {
     text-align: center;
     color: black;
@@ -264,6 +310,8 @@ h1, h2 {
     font-size: larger;
     font-family: oswald, sans-serif;
 }
+
+/* This code was taken from Love Runing Project */
 
 .fourth-about > p {
     text-align: center;
@@ -285,17 +333,25 @@ h1, h2 {
     margin-top: 20px;
 }
 
+/* This code was taken from Love Runing Project */
+
 footer {
     height: 150px;
 }
+
+/* This code was taken from Love Runing Project */
 
 .social-networks {
     text-align: center;
 }
 
+/* This code was taken from Love Runing Project */
+
 .social-networks > li {
     display: inline;
 }
+
+/* This code was taken from Love Runing Project */
 
 .social-networks i {
     font-size: 160%;
@@ -303,6 +359,8 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* This code was taken from Love Runing Project */
 
 #service {
     background-repeat: no-repeat;
@@ -312,6 +370,8 @@ footer {
     overflow: hidden;
 }
 
+/* This code was taken from Love Runing Project */
+
 #service div {
     width: 30%;
     height: 300px;
@@ -320,6 +380,8 @@ footer {
     text-align: center;
     box-sizing: border-box;
 }
+
+/* This code was taken from Love Runing Project */
 
 #service h2 {
     padding-top: 20px;
@@ -448,6 +510,8 @@ textarea::-webkit-scrollbar-thumb {
     opacity: 0.7;
 }
 
+/* This code was taken from Love Running Project */
+
 @media screen and (max-width:1200px) {
     #club-ethos {
         width: 65%;
@@ -460,12 +524,16 @@ textarea::-webkit-scrollbar-thumb {
         text-align: center;
     }
 
+/* This code was taken from Love Runing Project */
+
     .first-about, .second-about {
         width: 100%;
         float: left;
         padding: 0;
         margin-left: 0;
     }
+
+/* This code was taken from Love Runing Project */
 
     .third-about, .fourth-about {
         width: 100%;
@@ -511,6 +579,7 @@ textarea::-webkit-scrollbar-thumb {
         width: 90%;
     }
 }
+/* This code was taken from Love Running Project */
 
 @media screen and (max-width: 950px) {
     #menu {
@@ -557,35 +626,49 @@ textarea::-webkit-scrollbar-thumb {
         left: 0;
     }
 
+/* This code was taken from Love Runing Project */
+
     #club-ethos {
         width: 90%;
         height: 1200px;
         margin: 0 auto;
     }
 
+/* This code was taken from Love Runing Project */
+
     .first-about, .second-about {
         width: 90%;
         padding: 0 20px;
     }
+
+/* This code was taken from Love Runing Project */
 
     .first-about h2, h6, .second-about h2, h6 {
         width: 100%;
         text-align: center;
     }
     
+/* This code was taken from Love Runing Project */
+
     .third-about, .fourth-about {
         width: 90%;
         padding: 0 20px;
     }
+
+/* This code was taken from Love Runing Project */
 
     .third-about h2, h6, .fourth-about h2, h6 {
         width: 100%;
         text-align: center;
     }
 
+/* This code was taken from Love Runing Project */
+
     .social-networks {
         margin-top: 5em;
     }
+
+/* This code was taken from Love Runing Project */
 
     #service {
         background-repeat: no-repeat;
@@ -594,6 +677,8 @@ textarea::-webkit-scrollbar-thumb {
         width: 90%;
         overflow: hidden;
     }
+
+/* This code was taken from Love Runing Project */
 
     #service > div {
         display: flex;
@@ -661,7 +746,7 @@ textarea::-webkit-scrollbar-thumb {
 /* This code was taken from  https://www.youtube.com/watch?v=WwdU_eDKeVQ */
 
     .container3 form #lastName, .container3 form #mobile {
-        margin-left: 20px;
+        margin-left: 0px;
     }
     
 /* This code was taken from  https://www.youtube.com/watch?v=WwdU_eDKeVQ */
@@ -669,7 +754,7 @@ textarea::-webkit-scrollbar-thumb {
     .container3 form h4 {
         color: #fff;
         font-weight: 300;
-        width: 600px;
+        width: 53%;
         margin-top: 20px;
     }
     
@@ -738,6 +823,8 @@ textarea::-webkit-scrollbar-thumb {
         height: 350px;
         width: 90%;
     }
+
+/* This code was taken from Love Runing Project */
 
     #menu {
         clear: left;
