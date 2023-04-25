@@ -1,25 +1,103 @@
 # **Adventure**
 
-#### Adventure is aimed at people who want to travel, experience an unforgettable adventure. To people who want to get everything done without having to do anything themselves. A service from start to finish.
+#### The Adventure website is designed to be responsive website allowing visitors to view on a range of devices. It allows visitors to find out about the Traveling Site.
+
 <br>
 
-#### When it comes to getting visa, or when it comes to airline tickets, travel documents, information about the location, hotel, bookings or even a personal phone consultation.
+
 <br>
 
 <img src="assets/images/Bildschirmfoto 2023-03-26 um 13.50.45.png">
 
 <br>
 
+## User Experience (UX)
+
+<br>
+
+### Initial Discussion
+
+<br>
+
+Adventure is aimed at people who want to travel, experience an unforgettable adventure. To people who want to get everything done without having to do anything themselves. A service from start to finish.
+
+#### When it comes to getting visa, or when it comes to airline tickets, travel documents, information about the location, hotel, bookings or even a personal phone consultation.
+
+<br>
+
+
+#### Key information for the site
+
+<br>
+
+* What is currently the best travel country.
+* What is the next trip.
+* How to book a trip
+* A way for people to contact the Adventure.
+* What services are offered
+
+<br>
+
+### User Stories
+
+<br>
+
+#### Client Goals
+
+<br>
+
+* To be able to view the site on a range of device sizes.
+* To make it easy for potential clients to find out what the Adventure is and how to take part.
+* To make it clear for clients to see what we are currently offer and what is coming up next.
+* To allow people to be able to contact the Adventure to book travel questions.
+
+<br>
+
+#### First Time Visitor Goals
+
+<br>
+
+* I want to find out what is Adventure and how I can book a travel.
+* I want to be able to navigate the site easily to find information.
+* I want to be able to find their Instagram profile.
+
+<br>
+
+#### Returning Visitor Goals
+
+<br>
+
+* I want to find up to date information on what the Adventure is offer for traveling.
+* I want to be able to easily contact the book club with questions I might have.
+
+<br>
+
+#### Frequent Visitor Goals
+
+<br>
+
+* I want to be able to recommend a travel for the Adventure.
+
+<br>
+
+- - -
+
+<br>
+
 # Features
+
 <br>
 
 ## Navigation Bar
+
 <br>
 
 * Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Service and Contact page and is identical in each page to allow for easy navigation.
+
 <br>
 
 * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+
 <br>
 
 <img src="assets/images/Bildschirmfoto 2023-03-26 um 14.34.17.png">
@@ -27,6 +105,7 @@
 <br>
 
 ## The landing page Image slider
+
 <br>
 
 - The landing includes a image slider allow the user to see a example which location this site would be applicable to.
