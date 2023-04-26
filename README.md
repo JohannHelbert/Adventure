@@ -84,6 +84,40 @@ Adventure is aimed at people who want to travel, experience an unforgettable adv
 
 <br>
 
+## Design
+
+### Colour Scheme
+
+Colours was uses : burlywood, white , #fff, grey, rgb(255, 255, 255), chartreu, rgb(0, 0, 0), black,
+#3a3a3a;, rgba(0, 0, 0, .6), rgba(194, 194, 194, 0.713), #333, 
+
+The website uses  colours that are often used in the Adventure site. The colour was created using the colours from css itself.
+
+### Typography
+
+Google Fonts was used for the following fonts:
+
+* oswald is used for headings on the site. It is a serif font.
+
+* Lato is used for the body text on the site. It is a sans-serif font.  
+
+
+### Imagery
+
+The member images were used with the permission of their owners. All book covers were taken from the publishers websites. I have credited these in the [credits](#Credits) section.
+
+### Wireframes
+
+Wireframes were created for mobile, tablet and desktop.
+
+[Home Page Wireframe](docs/wireframes/indexwireframe.png)
+
+[Books Wireframe](docs/wireframes/bookswireframe.png)
+
+[Contact Us Wireframe](docs/wireframes/contactuswireframe.png)
+
+<br>
+
 # Features
 
 <br>
@@ -108,7 +142,7 @@ Adventure is aimed at people who want to travel, experience an unforgettable adv
 
 <br>
 
-- The landing includes a image slider allow the user to see a example which location this site would be applicable to.
+- The landing page includes a image slider allow the user to see a example which location this site would be applicable to.
 
 <br>
 
