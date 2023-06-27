@@ -108,13 +108,7 @@ The member images were used with the permission of their owners. All book covers
 
 ### Wireframes
 
-Wireframes were created for mobile, tablet and desktop.
-
-[Home Page Wireframe](docs/wireframes/indexwireframe.png)
-
-[Books Wireframe](docs/wireframes/bookswireframe.png)
-
-[Contact Us Wireframe](docs/wireframes/contactuswireframe.png)
+Wireframes were not used
 
 <br>
 
@@ -211,7 +205,109 @@ Wireframes were created for mobile, tablet and desktop.
 
 <br>
 
+### Accessibility
+
+I have been mindful during coding to ensure that the website is as accessible friendly as possible. I have achieved this by:
+
+* Using semantic HTML.
+* Using descriptive alt attributes on images on the site.
+* Ensuring that there is a sufficient colour contrast throughout the site.
+* Ensuring menus are accessible by marking the current page as current for screen readers.
+
+- - -
+
+## Technologies Used
+
+### Languages Used
+
+HTML and CSS were used to create this website.
+
+### Frameworks, Libraries & Programs Used
+
+Git - For version control.
+
+Github - To save and store the files for the website.
+
+<br>
+
+## Deployment & Local Development
+
+### Deployment
+
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+1. Log in (or sign up) to Github.
+2. Find the repository for this project, Adventure.
+3. Click on the Settings link.
+4. Click on the Pages link in the left hand side navigation bar.
+5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+6. Click Save. Your live Github Pages site is now deployed at the URL shown.
+
+### Local Development
+
+#### How to Fork
+
+To fork the Adventure repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, JohannHelbert/Adventure.
+3. Click the Fork button in the top right corner.
+
+#### How to Clone
+
+To clone the Adventure repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, JohannHelbert/Adventure.
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+
 # Testing
+
+### Full Testing
+
+Full testing was performed on the following devices:
+
+* Laptop:
+  * Macbook Pro 2015 13 inch screen
+* Mobile Devices:
+  * iPhone 12 pro.
+  * iPhone xr.
+  * google pixel 5.
+
+Each device tested the site using the following browsers:
+
+* Google Chrome
+* Safari
+* Firefox
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| `Header` |
+|  |  |  |  |  |
+| Adventure | Is the title legible?. | Reading | legible. | Pass |
+| `Main Content Section` |
+|  |  |  |  |  |
+| Slider | Slider is working?. | Click | working. | Pass |
+| `Footer Section` |
+|   |   |   |   |
+| Social links | Links working? | Click buttons | all functions working | Pass |
+<br>
+
+### Bugs/issues
+
+<br>
+
+- There was a resolution problem on small screen devices.
+- Horizontal spaces problem.
+
+<br>
+
+## Solved bugs
+
+- Change width / fixed the problem.
 
 <br>
 
